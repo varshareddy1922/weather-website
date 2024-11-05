@@ -84,7 +84,7 @@
 
 # JAVA SCRIPT CODE
 
-let currentCity = "Madurai";
+let currentCity = "Hyderabad";
 let units = "metric";
 
 let city = document.querySelector(".weather__city");
